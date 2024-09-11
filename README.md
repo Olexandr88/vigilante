@@ -1,6 +1,6 @@
 # vigilante
 
-This repository contains vigilante programs for Babylon. They are daemon programs that relay information between Babylon and Bitcoin for facilitating the Bitcoin timestamping protocol and the Bitcoin staking protocol.
+This repository contains vigilante programs for [Babylon](https://babylonlabs.io/). They are daemon programs that relay information between Babylon and Bitcoin for facilitating the Bitcoin timestamping protocol and the Bitcoin staking protocol.
 
 There are four vigilante programs:
 
